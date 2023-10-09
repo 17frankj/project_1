@@ -5,3 +5,5 @@ Eric Hart: In my program, I take the user's name and age, and then I return what
 
 Kai Wisniewski: This is a simple interactive user code asking for the user's input name and their favorite color. When the user inputs both answers, the code prints out a personalized message: "Hell," "My name is," and "My favorite color is"
 
+We chose the license because we felt that the terms applyed to or group very well and for the simplicity of the pject we didn't need anything more complecated. 
+We chose our code of conduct becuas eit included our shard values and expectations form anyone involved i nthis project.
